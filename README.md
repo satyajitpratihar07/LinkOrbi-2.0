@@ -239,7 +239,7 @@ If you like this project, please give it a **Star ⭐** on GitHub.
 
 **Satyajit Pratihar**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/satyajitpratihar07
 
 ---
 
