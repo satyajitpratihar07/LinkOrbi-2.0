@@ -126,33 +126,6 @@ Whether you're a **Student**, **Developer**, **Designer**, **Team**, or **Profes
 
 ---
 
-# 📂 Project Structure
-
-```
-LinkOrbi
-│
-├── public
-├── screenshots
-│   ├── login.png
-│   ├── dashboard.png
-│   ├── add-link.png
-│   └── settings.png
-│
-├── src
-│   ├── assets
-│   ├── components
-│   ├── context
-│   ├── hooks
-│   ├── pages
-│   ├── services
-│   ├── utils
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── package.json
-├── vite.config.js
-└── README.md
-```
 
 ---
 
