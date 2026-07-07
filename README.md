@@ -3,7 +3,6 @@
 <img src="./public/logo.png" width="120"/>
 
 # 🔗 LinkOrbi
-
 ### Your Smart Link Universe ✨
 
 Save • Organize • Share • Access Anywhere
